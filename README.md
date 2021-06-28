@@ -1,4 +1,4 @@
-# Useful-Frontend-Resources
+# Useful frontend resources
 Good talks and resources for advanced frontend topics
 
 * Instant Loading: Building offline-first Progressive Web Apps
