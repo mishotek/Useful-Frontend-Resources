@@ -7,6 +7,7 @@
 * [Performance](#Performance)
 
 ## Accessibility
+* [Make your website accessible](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 * [Writing Good Alt Text](https://www.youtube.com/watch?v=flf2vS0IoRs)
 
 ## Angular
