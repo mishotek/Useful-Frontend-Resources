@@ -5,6 +5,7 @@
 * [Angular](#Angular)
 * [Interviews](#Interviews)
 * [Performance](#Performance)
+* [Service Worker](#Service-Worker)
 
 ## Accessibility
 * [Make your website accessible ▶️](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
@@ -24,6 +25,8 @@
 * [In The Loop (event loop) ▶️](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 * [Slashing layout cost with content-visibility ▶️](https://www.youtube.com/watch?v=FFA-v-CIxJQ)
 * [Web animation gotchas ▶️](https://www.youtube.com/watch?v=9-6CKCz58A8)
+
+## Service Worker
 * [Service Worker API 📜](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 * [Introduction to progressive web apps 📜](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Introduction)
 * [Service Worker Cookbook 📜](https://serviceworke.rs/)
