@@ -4,6 +4,7 @@
 * [Accessibility](#Accessibility)
 * [Angular](#Angular)
 * [Interviews](#Interviews)
+* [Layout](#Layout)
 * [Performance](#Performance)
 * [Service Worker](#Service-Worker)
 
@@ -16,6 +17,9 @@
 
 ## Interviews
 * [Conducting tech interviews ▶️](https://www.youtube.com/watch?v=hFyQn5F5pc0)
+
+## Layout
+* [10 modern layouts in 1 line of CSS ▶️](https://www.youtube.com/watch?v=qm0IfG1GyZU)
 
 ## Performance
 * [Setting up a static render in 30 minutes (and other optimizations) ▶️](https://www.youtube.com/watch?v=TsTt7Tja30Q)
