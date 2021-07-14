@@ -7,6 +7,8 @@
 * [Layout](#Layout)
 * [Performance](#Performance)
 * [Service Worker](#Service-Worker)
+* [Asynchronous Javascript](#Asynchronous-javascript)
+* [Javascript Books](#Javascript-books)
 
 ## Accessibility
 * [Make your website accessible ▶️](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
@@ -38,3 +40,10 @@
 * [Service Worker API 📜](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 * [Introduction to progressive web apps 📜](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Introduction)
 * [Service Worker Cookbook 📜](https://serviceworke.rs/)
+
+
+## Asynchronous Javascript
+* [Rxjs operators (Visualized)](https://indepth.dev/reference/rxjs/operators)
+
+## Javascript Books
+* [You Don't Know JS (book series) - 1st Edition](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
