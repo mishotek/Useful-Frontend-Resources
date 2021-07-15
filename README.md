@@ -20,6 +20,8 @@
 
 ## Layout
 * [10 modern layouts in 1 line of CSS ▶️](https://www.youtube.com/watch?v=qm0IfG1GyZU)
+* [Media scroller (carusel) ▶️](https://www.youtube.com/watch?v=jmLdZY_Lo1k)
+* [Tabs componet ▶️](https://www.youtube.com/watch?v=mMBcHcvxuuA)
 
 ## Performance
 * [Setting up a static render in 30 minutes (and other optimizations) ▶️](https://www.youtube.com/watch?v=TsTt7Tja30Q)
