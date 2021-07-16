@@ -13,8 +13,8 @@
 * [Writing Good Alt Text ▶️](https://www.youtube.com/watch?v=flf2vS0IoRs)
 
 ## Angular
-* [Learn NgRX from the Creators of NgRX ▶️](https://www.pluralsight.com/courses/ng-conf-2020-session-37)
-
+* [Learn NgRX from the Creators of NgRX (part 1) ▶️](https://www.pluralsight.com/courses/ng-conf-2020-session-37)
+* [Learn NgRX from the Creators of NgRX (part 2) ▶️](https://www.pluralsight.com/courses/ng-conf-2020-session-42)
 ## Interviews
 * [Conducting tech interviews ▶️](https://www.youtube.com/watch?v=hFyQn5F5pc0)
 
