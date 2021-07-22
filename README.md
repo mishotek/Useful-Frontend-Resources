@@ -4,7 +4,7 @@
 * [Accessibility](#Accessibility)
 * [Angular](#Angular)
 * [Interviews](#Interviews)
-* [UI/UX](#UI/UX)
+* [UI UX](#UI-UX)
 * [Performance](#Performance)
 * [Service Worker](#Service-Worker)
 
@@ -18,7 +18,7 @@
 ## Interviews
 * [Conducting tech interviews ▶️](https://www.youtube.com/watch?v=hFyQn5F5pc0)
 
-## UI/UX
+## UI UX
 * [10 modern layouts in 1 line of CSS ▶️](https://www.youtube.com/watch?v=qm0IfG1GyZU)
 * [Media scroller (carusel) ▶️](https://www.youtube.com/watch?v=jmLdZY_Lo1k)
 * [Tabs componet ▶️](https://www.youtube.com/watch?v=mMBcHcvxuuA)
