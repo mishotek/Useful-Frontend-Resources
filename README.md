@@ -20,6 +20,10 @@
 
 ## UI UX
 * [10 modern layouts in 1 line of CSS ▶️](https://www.youtube.com/watch?v=qm0IfG1GyZU)
+* [Sign-up form best practices ▶️](https://www.youtube.com/watch?v=Ev2mCzJZLtY)
+* [Sign-in form best practice ▶️](https://www.youtube.com/watch?v=alGcULGtiv8)
+* [SMS OTP form best practices ▶️](https://www.youtube.com/watch?v=sU4MpWYrGSI)
+* [Payment and address form best practices ▶️](https://www.youtube.com/watch?v=xfGKmvvyhdM)
 * [Media scroller (carusel) ▶️](https://www.youtube.com/watch?v=jmLdZY_Lo1k)
 * [Tabs componet ▶️](https://www.youtube.com/watch?v=mMBcHcvxuuA)
 
