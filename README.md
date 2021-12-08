@@ -26,6 +26,7 @@
 * [Payment and address form best practices ▶️](https://www.youtube.com/watch?v=xfGKmvvyhdM)
 * [Media scroller (carusel) ▶️](https://www.youtube.com/watch?v=jmLdZY_Lo1k)
 * [Tabs componet ▶️](https://www.youtube.com/watch?v=mMBcHcvxuuA)
+* [TOASTS ▶️](https://www.youtube.com/watch?v=R75ZVW4LW5o)
 
 ## Performance
 * [Setting up a static render in 30 minutes (and other optimizations) ▶️](https://www.youtube.com/watch?v=TsTt7Tja30Q)
